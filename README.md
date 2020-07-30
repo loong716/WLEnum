@@ -5,7 +5,7 @@ For quick information collection in Pentest or CTF.
 ## WinEnum.ps1
 
 + Virtual Machine Detect
-+ Anti-Virus SoftWare Detect
++ Anti-Virus SoftWare Detect(Only for Server System)
 + User Info
 + System Info
 + Patch List
