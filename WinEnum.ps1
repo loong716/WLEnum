@@ -261,6 +261,7 @@ Function GetAllFiles
 }
 #>
 
+# https://github.com/EmpireProject/Empire/blob/master/data/module_source/situational_awareness/host/Invoke-WinEnum.ps1
 Function GetFWRules
 {
 	"[*] Windows FireWall Rules`n"
