@@ -1,5 +1,7 @@
 # WLinEnum
 
+> 写着玩的代码，仅供娱乐
+
 For quick information collection in Pentest or CTF.
 
 ## WinEnum.ps1
